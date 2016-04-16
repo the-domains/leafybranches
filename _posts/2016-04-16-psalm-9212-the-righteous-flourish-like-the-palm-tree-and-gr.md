@@ -5,12 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: |-
-  Psalm 92:12
-  The righteous flourish like the palm tree
-  and grow like a cedar in Lebanon.
-datePublished: '2016-04-16T03:33:56.369Z'
-dateModified: '2016-04-16T03:33:41.323Z'
+description: "Psalm 92:12\_The righteous flourish like the palm tree\nand grow like a cedar in Lebanon."
+datePublished: '2016-04-16T03:49:13.048Z'
+dateModified: '2016-04-16T03:49:01.837Z'
 title: ''
 author: []
 authors: []
@@ -25,9 +22,7 @@ url: psalm-9212-the-righteous-flourish-like-the-palm-tree-and-gr/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dab5497-c3d2-47fe-8640-4ae458fc8fba.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88a3858-fc41-483c-8c86-7f5316b06831.jpg)
 
-Psalm 92:12 
-
-The righteous flourish like the palm tree
+Psalm 92:12 The righteous flourish like the palm tree
 and grow like a cedar in Lebanon.
