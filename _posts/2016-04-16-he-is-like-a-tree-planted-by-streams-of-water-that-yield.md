@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-16T03:23:17.988Z'
-dateModified: '2016-04-16T03:22:23.149Z'
+datePublished: '2016-04-16T03:59:32.358Z'
+dateModified: '2016-04-16T03:59:31.846Z'
 title: "\_He is like a tree\n\t\tplanted by streams of water\n\tthat yields its fruit in its season,\n\t\tand its leaf does not wither.\n\tIn all that he does, he prospers.\n\t\n\n\n\n(Psalm 1:3 ESV)"
 author: []
+sourcePath: _posts/2016-04-16-he-is-like-a-tree-planted-by-streams-of-water-that-yield.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-he-is-like-a-tree-planted-by-streams-of-water-that-yield.md
-published: true
 url: he-is-like-a-tree-planted-by-streams-of-water-that-yield/index.html
 _type: Article
 
